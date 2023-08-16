@@ -57,6 +57,7 @@ header > h1{
 
 header > p{
     text-align: center;
+    text-indent: 0px;
 }
 
 nav{
@@ -66,10 +67,11 @@ nav{
 }
 
 nav a{
+    
     color: white;
     text-decoration: none;
     padding: 10px;
-    font-weight: bold;
+    font-weight: bold;    
 }
 
 nav a:hover{
@@ -177,6 +179,10 @@ ul{
     columns: 2;
     list-style-position: inside;
     margin: 5px;   
+}
+
+li{
+    text-align: initial;
 }
 
 footer{
