@@ -14,8 +14,6 @@ Site criado a partir do desafio 010 do curso de HTML5 e CSS3 do Curso em Vídeo 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
